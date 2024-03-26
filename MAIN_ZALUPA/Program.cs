@@ -1,4 +1,4 @@
 ﻿using MAIN_ZALUPA;
 
-Programm1.main();
+Programm2.main();
 
